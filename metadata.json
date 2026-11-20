@@ -1,0 +1,6 @@
+{
+  "name": "STYLEMATE AI",
+  "description": "Your personal AI fashion stylist. Upload clothing photos, select your style, occasion, and live weather to generate tailored outfit combinations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
